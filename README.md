@@ -1,6 +1,10 @@
 # Yelp Restaurant Photo Classification
 Deep Learning
 
+## Dataset Link:
+[Kaggle Yelp Restaurant phot classification ](https://www.kaggle.com/c/yelp-restaurant-photo-classification/data)
+
+
 ## Description:-
 *The Yelp Restaurant Photo Classification challenge is a Kaggle challenge that focuses on the problem predicting user labels of restaurants based on user review photographs. This project approached the problem with the Sequential model convolutional neural network architecture and a custom ensemble approach to achieve a labels for images*.
 
@@ -42,13 +46,15 @@ File descriptions
 This assignment is divided in three parts:-
 
 
-** 1) Data Preparation which is done in 	YelpTrainModel-Part1.ipynb. Image data is basically changed to vector format and saved                 in yelpdataset12345.h file.**
+**1) Data Preparation which is done in 	YelpTrainModel-Part1.ipynb. Image data is basically changed to vector format and saved                 in yelpdataset12345.h file.**
  
-** 2) YelpTrainModel-Part2.ipynb file is used for training the data using CNN.**
+**2) YelpTrainModel-Part2.ipynb file is used for training the data using CNN.**
 
- 3) Testing with new data using TestYelp.ipynb.
+**3) Testing with new data using TestYelp.ipynb.**
 
-## Steps to execute the files
+
+
+## Steps to execute the files:
 
 
          
