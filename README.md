@@ -56,8 +56,17 @@ This assignment is divided in three parts:-
 
 ## Steps to execute the files:
 
+1) First we created the file name append.csv its the combination of file  train_photo_to_biz_ids.csv and train .csv, the reason behind this to map photo's with the labels which are in seperate files as you read in file descriptions
 
+2) This step includes to create a h5 file for training set which includes photographs with respective labels in it. File to use for creation is [YelpTrainModel-Part1.ipynb](https://github.com/kartik004/Yelp-Restaurant-Photo-Classification/blob/master/YelpTrainModel-Part1.ipynb)
+
+3) This step is create the actual model i.e. file [YelpTrainModel-Part2.ipynb](https://github.com/kartik004/Yelp-Restaurant-Photo-Classification/blob/master/YelpTrainModel-Part2.ipynb)
+
+4) As a result of executing the 3rdt step a weights file will be created with higher accuracy which needs to be used further or you can use the mine as well link for [weights.11-0.72365.hdf5](https://drive.google.com/file/d/19a3w-DxSfdwy6m0W5g5JLIJ_26b0IrTv/view?usp=sharing)
+
+5) Final step is to run the [TestYelp](https://github.com/kartik004/Yelp-Restaurant-Photo-Classification/blob/master/TestYelp.ipynb)
          
 
-
+## Conclusion:
+With the Convolution neural network, we have able to predict the label for images present in the test dataset, with final hamming loss of 0.43. Furthermore, we can enhance the project by grouping the images as per business id by which we can label the business as per the group of labels.
 
