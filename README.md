@@ -2,7 +2,7 @@
 Deep Learning
 
 ## Dataset Link:
-[Kaggle Yelp Restaurant phot classification ](https://www.kaggle.com/c/yelp-restaurant-photo-classification/data)
+[Kaggle Yelp Restaurant photo classification ](https://www.kaggle.com/c/yelp-restaurant-photo-classification/data)
 
 
 ## Description:-
